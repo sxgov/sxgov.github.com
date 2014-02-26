@@ -1,0 +1,1692 @@
+.blue18 {FONT: bold 15px/25px "Î¢ÈíÑÅºÚ","ËÎÌå"; HEIGHT: 25px;COLOR: #16387c;}
+.blue18 a{FONT: bold 15px/25px "Î¢ÈíÑÅºÚ","ËÎÌå"; HEIGHT: 25px;COLOR: #16387c;}
+.blue18 a:hover{FONT: bold 15px/25px "Î¢ÈíÑÅºÚ","ËÎÌå"; HEIGHT: 25px;COLOR: #16387c;}
+
+.white13 {LINE-HEIGHT: 23px; FONT-FAMILY: "Î¢ÈíÑÅºÚ","ËÎÌå"; HEIGHT: 24px; COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: normal}
+.white13 a{LINE-HEIGHT: 23px; FONT-FAMILY: "Î¢ÈíÑÅºÚ","ËÎÌå"; HEIGHT: 24px; COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: normal} 
+.white13 a:hover{LINE-HEIGHT: 23px; FONT-FAMILY: "Î¢ÈíÑÅºÚ","ËÎÌå"; HEIGHT: 24px; COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: normal}
+
+/*---------- base ---------*/
+BODY {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px;
+}
+UL {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+IMG {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+LABEL {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+BODY {
+	LINE-HEIGHT: 22px; BACKGROUND: #fff; FONT-SIZE: 12px
+}
+A {
+	COLOR: #16387c;; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #7a2123
+}
+A IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.clear {
+	CLEAR: both
+}
+BODY {
+	LINE-HEIGHT: 22px; FONT-FAMILY: "ËÎÌå", "ºÚÌå"; FONT-SIZE: 12px
+}
+
+
+img{
+	border:none;
+}
+
+.art_context .intro{
+	width:90%;
+	padding:8px 16px;
+	line-height:24px;
+	background:#F2F2F2;
+	border:1px solid #DCDDDD;
+	font-size:14px;
+	color:#706A6A;
+	margin:8px auto 0 auto;
+}
+
+input,select,button{
+	font:12px Verdana,Arial,Tahoma;
+	vertical-align:middle;
+}
+/*¹ã¸æ*/
+#erTong{TEXT-ALIGN: center; MARGIN: 5px auto; WIDTH: 960px;height:auto;OVERFLOW: hidden;}
+/*Ê×Ò³*/
+.content {
+	BORDER-BOTTOM: #bebebe 1px solid; POSITION: relative; BORDER-LEFT: #bebebe 1px solid; MARGIN: 0px auto; WIDTH: 958px; HEIGHT: 100%; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid;OVERFLOW: hidden;
+}
+.mart10 {
+	MARGIN-TOP: 5px
+}
+.padb10 {
+	PADDING-BOTTOM: 10px
+}
+.wyk_l {
+	MARGIN: 0px 10px 0px 10px; WIDTH: 305px;  FLOAT: left; HEIGHT: 260px;
+}
+.wyk_l_con{border-bottom:#bebebe 1px solid;border-left:#bebebe 1px solid;border-right:#bebebe 1px solid;height:auto;OVERFLOW: hidden;}
+.h380{height:368px;margin-bottom:10px;}
+/*.wyk_lt {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 25px; PADDING-RIGHT: 0px; HEIGHT: 96px; OVERFLOW: hidden; PADDING-TOP: 12px
+}
+.wyk_lt DL {
+	TEXT-ALIGN: center; WIDTH: 112px; PADDING-RIGHT: 19px; FLOAT: left
+}
+.wyk_lt DL DT {
+	HEIGHT: 78px; OVERFLOW: hidden
+}
+.wyk_lt DL DT IMG {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; WIDTH: 110px; HEIGHT: 73px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}*/
+.wyk_l H5.title06 {
+	BACKGROUND: url(http://edu.sxgov.cn/image/images/bg_01.gif) no-repeat -1px -129px
+}
+.mt10{margin-top:10px;}
+UL.yb_list01 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+UL.yb_list01 LI {
+	LINE-HEIGHT: 27px; PADDING-LEFT: 4px; WHITE-SPACE: nowrap; BACKGROUND: url(http://edu.sxgov.cn/image/images/libg_icon01.gif) no-repeat 0px 12px; HEIGHT: 27px; OVERFLOW: hidden
+}
+UL.yb_list01 LI A {
+	LINE-HEIGHT: 27px; WHITE-SPACE: nowrap; HEIGHT: 27px; COLOR: #16387c; FONT-SIZE: 14px; OVERFLOW: hidden; TEXT-DECORATION: underline
+}
+UL.yb_list01 LI SPAN A {
+	COLOR: #16387c; TEXT-DECORATION: none
+}
+UL.yb_list01 LI A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+UL.yb_list01 LI A:active {
+	COLOR: #7a2123
+}
+
+UL.yb_list06{
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 0px;
+}
+UL.yb_list06 LI {
+	LINE-HEIGHT: 27px; PADDING-LEFT: 9px; WHITE-SPACE: nowrap; BACKGROUND: url(http://edu.sxgov.cn/image/images/libg_icon01.gif) no-repeat 0px 12px; HEIGHT: 27px; OVERFLOW: hidden;float:left;width:175px;
+}
+UL.yb_list06 LI A {
+	LINE-HEIGHT: 27px; WHITE-SPACE: nowrap; HEIGHT: 27px; COLOR: #16387c; FONT-SIZE: 12px; OVERFLOW: hidden; TEXT-DECORATION: underline
+}
+UL.yb_list06 LI SPAN A {
+	COLOR: #16387c; TEXT-DECORATION: none
+}
+UL.yb_list06 LI A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+UL.yb_list06 LI A:active {
+	COLOR: #7a2123
+}
+
+
+
+.wyk_c {
+	MARGIN: 0px 10px 0px 0px; WIDTH: 305px; DISPLAY: inline; FLOAT: left; HEIGHT: 260px; 
+}
+.wyk_r {
+	MARGIN: 0px 0px 0px; WIDTH: 305px; FLOAT: left; HEIGHT: 260px; 
+}
+
+
+UL.yb_list03 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; 
+}
+UL.yb_list03 LI {
+	PADDING-LEFT: 0px;WHITE-SPACE: nowrap; BACKGROUND: url(http://edu.sxgov.cn/image/images/libg_icon01.gif) no-repeat 0px 12px; LINE-HEIGHT: 24px; HEIGHT: 24px; OVERFLOW: hidden
+}
+
+UL.yb_list03 LI A {
+	LINE-HEIGHT: 24px;  WHITE-SPACE: nowrap; HEIGHT: 24px;COLOR: #16387c; FONT-SIZE: 12px; OVERFLOW: hidden; TEXT-DECORATION: underline
+}
+
+
+UL.yb_lista03 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px;  
+}
+UL.yb_lista03 LI {
+	PADDING-LEFT: 9px;WHITE-SPACE: nowrap; BACKGROUND: url(http://edu.sxgov.cn/image/images/libg_icon01.gif) no-repeat 0px 12px; LINE-HEIGHT: 24px; HEIGHT: 24px; OVERFLOW: hidden
+}
+
+UL.yb_lista03 LI A {
+	LINE-HEIGHT: 24px;  WHITE-SPACE: nowrap; HEIGHT: 24px;COLOR: #333; FONT-SIZE: 12px; OVERFLOW: hidden; TEXT-DECORATION: underline
+}
+
+.yqlj {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 10px; PADDING-LEFT: 10px;  BORDER-TOP: #bebebe 1px solid; PADDING-TOP: 0px;WIDTH: 958px; HEIGHT: 100%; OVERFLOW: hidden;MARGIN: 0px auto;
+}
+.yqlj H5 {
+	LINE-HEIGHT: 26px; HEIGHT: 26px; FONT-SIZE: 12px
+}
+
+/*Î²²¿*/
+#foot2010 {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 960px; COLOR: #000; CLEAR: both; OVERFLOW: hidden
+}
+#foot2010 * {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+#foot2010 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#foot2010 A:hover {
+	TEXT-DECORATION: underline
+}
+#foot2010 .link {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: url(http://edu.sxgov.cn/image/images/head2010.gif) repeat-x 0px -637px; HEIGHT: 30px; PADDING-TOP: 8px
+}
+#foot2010 .copyright {
+	LINE-HEIGHT: 1.7em; FONT-FAMILY: Arial, Helvetica, sans-serif; PADDING-TOP: 6px
+}
+
+/*Í·²¿*/
+.subnav {
+	BORDER-BOTTOM: #bebebe 1px; BORDER-LEFT: #bebebe 1px solid;BORDER-bottom: #bebebe 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 29px; MARGIN: 0px auto; PADDING-LEFT: 13px; WIDTH: 936px; PADDING-RIGHT: 9px; HEIGHT: 29px; OVERFLOW: hidden; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 0px
+}
+UL.subnav_l {
+	WIDTH: 400px; FLOAT: left
+}
+UL.subnav_l LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 11px; WHITE-SPACE: nowrap; BACKGROUND: url(http://edu.sxgov.cn/image/images/li_bg01.gif) no-repeat 0px 10px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+/*#head2010 {
+	MARGIN: 0px auto; WIDTH: 960px; BACKGROUND: #fff; FONT-SIZE: 12px; OVERFLOW: hidden
+}
+#head2010 * {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+#head2010 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#head2010 A:hover {
+	COLOR: #900; TEXT-DECORATION: underline
+}
+#head2010 .navetc {
+	BORDER-BOTTOM: #bebebe 1px; BORDER-LEFT: #bebebe 1px solid; BACKGROUND: url(../images/head2010.gif) repeat-x 0px -417px; HEIGHT: 52px; OVERFLOW: hidden; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid
+}
+#head2010 .navetc .navL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 825px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 52px; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 3px
+}
+#head2010 .navetc .navL TD {
+	TEXT-ALIGN: center; LINE-HEIGHT: 25px; BACKGROUND: url(../images/head2010.gif) no-repeat 100% 5px
+}
+#head2010 .navetc .navL TD.nr {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#head2010 .navetc .navR {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; WIDTH: 125px; PADDING-RIGHT: 3px; FLOAT: right; OVERFLOW: hidden; PADDING-TOP: 3px
+}
+#head2010 .login {
+	TEXT-ALIGN: center; LINE-HEIGHT: 20px; BACKGROUND: #e8e8e8; HEIGHT: 20px; COLOR: #144e7e
+}
+#head2010 .login DD {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; LIST-STYLE-TYPE: none; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 18px; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 4px
+}
+#head2010 .login DD A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 1px; DISPLAY: inline-block; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+#head2010 .login DD DIV {
+	FLOAT: left
+}
+#head2010 .login DD .username {
+	TEXT-ALIGN: right; LINE-HEIGHT: 14px; WIDTH: 60px; DISPLAY: inline-block; HEIGHT: 14px; MARGIN-LEFT: 8px; OVERFLOW: hidden
+}
+#head2010 #enterhexun {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 22px; PADDING-TOP: 5px
+}
+#head2010 #enterhexun A {
+	DISPLAY: inline-block; COLOR: #656565
+}
+#head2010 #enterhexun .tel {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/head2010.gif) no-repeat 0px -231px; PADDING-TOP: 2px
+}
+#head2010 .logoetc {
+	BACKGROUND: url(../images/head2010.gif) repeat-x 0px -41px; HEIGHT: 40px; OVERFLOW: hidden
+}
+#head2010 .logoetc .logo {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/head2010.gif) repeat-x 0px -141px; FLOAT: left; HEIGHT: 40px; PADDING-TOP: 0px
+}
+#head2010 .logoetc .date {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 16px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 16px; COLOR: #cadffe; OVERFLOW: hidden; PADDING-TOP: 18px
+}
+#head2010 .logoetc .sea {
+	WIDTH: 505px; FLOAT: right; COLOR: #fff; OVERFLOW: hidden
+}
+#head2010 .logoetc .sea DT {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: normal; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden; PADDING-TOP: 13px
+}
+#head2010 .logoetc .sea DD {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 13px
+}
+#head2010 .logoetc .sea DT INPUT {
+	MARGIN-TOP: 0px; MARGIN-RIGHT: 1px
+}
+#head2010 .logoetc .sea DD .inputtxt {
+	BORDER-BOTTOM: #9c9c9c 1px solid; BORDER-LEFT: #9c9c9c 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; WIDTH: 154px; PADDING-RIGHT: 0px; COLOR: #626262; BORDER-TOP: #9c9c9c 1px solid; BORDER-RIGHT: #9c9c9c 1px solid; PADDING-TOP: 3px
+}
+#head2010 .logoetc .sea DD .inputbtn {
+	TEXT-ALIGN: center; LINE-HEIGHT: 22px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 68px; BACKGROUND: url(../images/head_but.gif) no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 21px; COLOR: #fff; FONT-SIZE: 12px; BORDER-LEFT-WIDTH: 0px; CURSOR: pointer
+}
+.nav {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; MARGIN: 0px auto; PADDING-LEFT: 12px; WIDTH: 946px; PADDING-RIGHT: 0px; HEIGHT: 30px; OVERFLOW: hidden; BORDER-TOP: #bebebe 1px; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 0px
+}
+.nav A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; WHITE-SPACE: nowrap; BACKGROUND: url(../images/tb_bg01.gif) no-repeat right -57px; PADDING-TOP: 0px
+}
+.nav A.end {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}*/
+
+/*Ê×Ò³ÍÆ¹ã*/
+.sm_box {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; MARGIN: 0px auto; WIDTH: 958px; OVERFLOW: hidden; BORDER-TOP: #e5e5e5 1px solid; BORDER-RIGHT: #bebebe 1px solid
+}
+.adv_top{OVERFLOW: hidden;width:958px;height:auto;PADDING-TOP: 5px;}
+.adv_top ul{padding-left:4px;}
+.adv_top li{LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; HEIGHT: 20px; OVERFLOW: hidden;float:left;margin:0px 5px}
+.adv_top li A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+.adv_top li A:active {
+	COLOR: #7a2123
+}
+.adv_top li A {
+	LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; HEIGHT: 20px; COLOR: #16387c; FONT-SIZE: 12px; OVERFLOW: hidden; TEXT-DECORATION: none
+}
+.adv_bottom{OVERFLOW: hidden;width:955px;height:auto;PADDING-BOTTOM: 5px;}
+.adv_bottom ul{padding-left:4px;}
+.adv_bottom li{LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; HEIGHT: 20px; OVERFLOW: hidden;float:left;margin:0px 5px}
+.adv_bottom li A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+.adv_bottom li A:active {
+	COLOR: #7a2123
+}
+.adv_bottom li A {
+	LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; HEIGHT: 20px; COLOR: #16387c; FONT-SIZE: 12px; OVERFLOW: hidden; TEXT-DECORATION: none
+}
+.sm_boxl {
+	WIDTH: 169px; FLOAT: left; OVERFLOW: hidden;PADDING-TOP: 5px
+}
+.sm_boxc {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; WIDTH: 600px; PADDING-RIGHT: 6px; FLOAT: left; PADDING-TOP: 5px
+}
+.sm_boxr {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; WIDTH: 170px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 5px
+}
+.adv_p_01 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 128px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+UL.yb_list05 LI A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+UL.yb_list05 LI A:active {
+	COLOR: #7a2123
+}
+UL.yb_list05 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; WIDTH: 150px; PADDING-RIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+UL.yb_list05 LI {
+	LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; HEIGHT: 20px; OVERFLOW: hidden
+}
+UL.yb_list05 LI A {
+	LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; HEIGHT: 20px; COLOR: #16387c; FONT-SIZE: 12px; OVERFLOW: hidden; TEXT-DECORATION: none
+}
+
+
+
+
+
+.line {
+	BORDER-BOTTOM: #bebebe 1px solid; LINE-HEIGHT: 0; BACKGROUND: #af0000; HEIGHT: 4px; FONT-SIZE: 0px; BORDER-TOP: #bebebe 1px solid
+}
+.hotgp2011 {
+	BACKGROUND: #f2f2f2; HEIGHT: 26px
+}
+.hotgp2011 .fl {
+	WIDTH: 410px; FLOAT: left; HEIGHT: 26px; OVERFLOW: hidden
+}
+.hotgp2011 .fr {
+	BORDER-LEFT: #bebebe 1px solid; WIDTH: 540px; FLOAT: right; HEIGHT: 26px; OVERFLOW: hidden
+}
+.hotgp2011 H2 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; PADDING-LEFT: 5px; WIDTH: 58px; PADDING-RIGHT: 0px; BACKGROUND: url(http://edu.sxgov.cn/image/images/rollbg.gif) 0px 0px; FLOAT: left; HEIGHT: 24px; FONT-SIZE: 12px; FONT-WEIGHT: normal; PADDING-TOP: 2px
+}
+.hotgp2011 UL.roll {
+	FLOAT: left; PADDING-TOP: 4px
+}
+.hotgp2011 UL.roll LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 0px
+}
+.hotgp2011 UL.roll LI SPAN {
+	COLOR: #666666
+}
+
+/*µÚÒ»²¿·Ö*/
+.cont_l {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 12px; WIDTH: 300px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 100%; OVERFLOW: hidden; BORDER-RIGHT: #bebebe 1px solid;
+}
+.cont_c {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 375px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 100%; OVERFLOW: hidden; BORDER-RIGHT: #bebebe 1px solid;padding-top:10px;
+}
+.cont_r {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 220px; PADDING-RIGHT: 8px; FLOAT: left; HEIGHT: 100%; OVERFLOW: hidden; PADDING-TOP: 10px;
+}
+
+
+H4.L_column {
+	MARGIN-TOP: 10px; WIDTH: 100%; HEIGHT: 25px; OVERFLOW: hidden;}
+H4.L_column B {
+	WIDTH: 14px; FLOAT: left; HEIGHT: 25px; margin-right:10px;}
+H4.L_column SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 18px; FONT: bold 15px/25px "Î¢ÈíÑÅºÚ","ËÎÌå"; FLOAT: left; HEIGHT: 25px;COLOR: #16387c; PADDING-TOP: 0px;
+}
+H4.L_column .column_r {
+	LINE-HEIGHT: 25px; PADDING-RIGHT: 10px; FLOAT: right; FONT-WEIGHT: normal;
+}
+H4.L_column .column_r A {
+	PADDING-LEFT: 9px;  COLOR: #666666; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+H4.L_column .column_r A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+H4.L_column .column_r A:hover {
+	COLOR: #7a2123
+}
+H2.title01 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 40px; FONT-FAMILY: "ºÚÌå"; HEIGHT: 40px; FONT-SIZE: 20px; OVERFLOW: hidden; FONT-WEIGHT: normal
+}
+H2.title01 A {
+	WHITE-SPACE: nowrap; COLOR: #16387c;OVERFLOW: hidden; TEXT-DECORATION: underline
+}
+UL.bordt {
+	BORDER-BOTTOM: #e3e3e3 1px dotted; PADDING-BOTTOM: 9px; PADDING-LEFT: 7px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL.paddt6 {
+	PADDING-TOP: 6px
+}
+
+
+.smalbox {
+	BORDER-BOTTOM: #e1e1e1 1px solid; MARGIN: 6px auto 0px; WIDTH: 960px; BACKGROUND: url(http://edu.sxgov.cn/image/images/bg_02.gif) repeat-x 0px 9px
+}
+H3.title03 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 17px; PADDING-LEFT: 8px; WIDTH: 23px; PADDING-RIGHT: 8px; FONT-FAMILY: "Î¢ÈíÑÅºÚ", "ËÎÌå"; BACKGROUND: url(http://edu.sxgov.cn/image/images/bg_01.gif) no-repeat 0px 0px; FLOAT: left; HEIGHT: 113px; COLOR: #fff; FONT-SIZE: 16px; PADDING-TOP: 3px
+}
+.ms_l {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 13px; PADDING-LEFT: 9px; WIDTH: 290px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 92px; OVERFLOW: hidden; PADDING-TOP: 11px
+}
+.ms_l DT {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 110px; PADDING-RIGHT: 12px; FLOAT: left; HEIGHT: 80px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.ms_l DT IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; WIDTH: 108px; DISPLAY: block; FLOAT: left; HEIGHT: 78px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.ms_l DD {
+	LINE-HEIGHT: 21px; WIDTH: 168px; FLOAT: left; COLOR: #666; OVERFLOW: hidden
+}
+.ms_l DD A {
+	COLOR:  COLOR: #02263f
+}
+.ms_l DD H4 {
+	WHITE-SPACE: nowrap; COLOR: #900; FONT-SIZE: 12px; OVERFLOW: hidden
+}
+.ms_l DD H4 A {
+	WHITE-SPACE: nowrap; COLOR: #16387c; TEXT-DECORATION: none
+}
+.ms_l DD H4 A:hover {
+	COLOR: #900; TEXT-DECORATION: underline
+}
+.padl22 {
+	PADDING-LEFT: 22px
+}
+.bordr {
+	PADDING-RIGHT: 10px; BORDER-RIGHT: #e1e1e1 1px solid
+}
+.mleft{width:636px; HEIGHT: 100%; OVERFLOW: hidden;float:left}
+.cnt_l {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 12px; WIDTH: 278px; PADDING-RIGHT: 21px; FLOAT: left; HEIGHT: 100%; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.cnt_c {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 0px; WIDTH: 314px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 100%; OVERFLOW: hidden; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 0px
+}
+
+.fli_l {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 278px; PADDING-RIGHT: 21px; FLOAT: left; PADDING-TOP: 0px
+}
+.fli_r {
+	WIDTH: 290px; FLOAT: left;PADDING-LEFT: 0px;PADDING-RIGHT: 10px; 
+}
+.fli_r li{width:135px;height:100px;margin:5px;text-align:center;float:left;}
+
+H3.title04 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 22px; FONT-FAMILY: "ºÚÌå"; HEIGHT: 22px; FONT-SIZE: 18px; OVERFLOW: hidden; FONT-WEIGHT: normal; PADDING-TOP: 7px
+}
+H3.title04 A {
+	WHITE-SPACE: nowrap; COLOR: #485a90; OVERFLOW: hidden; TEXT-DECORATION: underline
+}
+
+.cnt_cl {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; WIDTH: 311px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 111px; OVERFLOW: hidden; PADDING-TOP: 9px
+}
+.cnt_cl DT {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 97px; PADDING-RIGHT: 9px; FLOAT: left; HEIGHT: 107px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.cnt_cl DT IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; WIDTH: 95px; DISPLAY: block; FLOAT: left; HEIGHT: 105px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.cnt_cl DD {
+	LINE-HEIGHT: 21px; WIDTH: 205px; FLOAT: left; COLOR: #666; OVERFLOW: hidden
+}
+.cnt_cl DD A {
+	COLOR: #900
+}
+.cnt_cl DD H4 {
+	 FONT-SIZE: 14px
+}
+.cnt_cl DD H4 A {
+	WHITE-SPACE: nowrap;COLOR: #16387c; TEXT-DECORATION: underline
+}
+.cnt_cl DD H4 A:hover {
+	COLOR: #900; TEXT-DECORATION: underline
+}
+.cnt_cl DD P.pj {
+	text-indent:2em
+}
+
+.cnt_r {
+	BORDER: #bebebe 1px solid; MARGIN: 10px 10px 0px; WIDTH: 298px; DISPLAY: inline; FLOAT: left; HEIGHT: 100%; OVERFLOW: hidden; }
+H3.title02 {HEIGHT: 24px; CLEAR: both; OVERFLOW: hidden
+}
+H3.title02 DIV {
+	LINE-HEIGHT: 23px; PADDING-LEFT: 18px; FONT-FAMILY: "Î¢ÈíÑÅºÚ","ËÎÌå";  FLOAT: left; HEIGHT: 24px; COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: normal
+}
+H3.title02 DIV A {
+	FONT: 13px/24px "Î¢ÈíÑÅºÚ","ËÎÌå"; FLOAT: left; COLOR: #ffffff
+}
+H3.title02 DIV I {
+	FONT: 13px/24px "Î¢ÈíÑÅºÚ","ËÎÌå"; FLOAT: left; COLOR: #ffffff
+}
+H3.title02 DIV A:hover {
+	COLOR: #ffffff;
+}
+H3.title02 DIV B {
+	WIDTH: 16px; FLOAT: left; HEIGHT: 24px
+}
+H3.title02 P {
+	PADDING-RIGHT: 8px; FLOAT: right
+}
+H3.title02 P A {
+	LINE-HEIGHT: 24px; PADDING-LEFT: 10px; HEIGHT: 24px; COLOR: #cccccc; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+H3.title02 P A:hover {
+	COLOR:#ffffff; TEXT-DECORATION: underline
+}
+H3.title02 P A:active {
+	COLOR: #7a2123
+}
+.cnt_cr {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; WIDTH: 278px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT:105px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.cnt_cr DT {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 110px; PADDING-RIGHT: 9px; FLOAT: left; HEIGHT: 105px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.cnt_cr DT IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; WIDTH: 108px; DISPLAY: block; FLOAT: left; HEIGHT: 103px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.cnt_cr DD {
+	LINE-HEIGHT: 20px; WIDTH: 159px; FLOAT: left; COLOR: #666; OVERFLOW: hidden;}
+.cnt_cr DD p{text-indent:2em}
+.cnt_cr DD A {
+	COLOR: #900
+}
+.cnt_cr DD H4 {
+	COLOR: #000; FONT-SIZE: 12px
+}
+.cnt_cr DD H4 a{
+	COLOR: #16387c; FONT-SIZE: 12px
+}
+
+/*Ìî¼Ó*/
+.cnt_cr1 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; WIDTH: 278px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 100px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.cnt_cr1 DT {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 110px; PADDING-RIGHT: 9px; FLOAT: left; HEIGHT: 80px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.cnt_cr1 DT IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; WIDTH: 108px; DISPLAY: block; FLOAT: left; HEIGHT: 78px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.cnt_cr1 DD {
+	LINE-HEIGHT: 20px; WIDTH: 159px; FLOAT: left; COLOR: #666; OVERFLOW: hidden
+}
+.cnt_cr1 DD A {
+	COLOR: #900
+}
+.cnt_cr1 DD H4 {
+	COLOR: #000; FONT-SIZE: 12px
+}
+.cnt_cr1 DD H4 a{
+	COLOR: #16387c; FONT-SIZE: 12px
+}
+
+.fji {
+	CLEAR: both; PADDING-LEFT: 12px; WIDTH: 613px; PADDING-RIGHT: 10px; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 0px;HEIGHT:AUTO; OVERFLOW: hidden;
+}
+
+/*ÁÐ±í*/
+#content{ border: 1px solid #999; border-top: none; margin: 0 auto 10px; padding: 12px 0 0 0; float: left; }
+#content .conentbox{ width: 958px; background: url(http://edu.sxgov.cn/image/images/bg_content01.gif) right repeat-y; float: left; }
+#mainbox{ float: left; width: 630px; }
+#mainbox .mainboxcontent{ padding: 0 12px 12px 12px; }
+.breadcrumbs{ height: 28px; line-height: 28px; border: 1px #E8E8E8; border-style: none none solid none; }
+.breadcrumbs01 {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e8e8e8 1px; HEIGHT: 32px; VERTICAL-ALIGN: middle; BORDER-TOP: #e8e8e8 1px; BORDER-RIGHT: #e8e8e8 1px; PADDING-TOP: 12px
+}
+.breadcrumbs01 IMG {
+	VERTICAL-ALIGN: top
+}
+#L_tit01 {
+	LINE-HEIGHT: 22px; MARGIN-TOP: 10px; MARGIN-BOTTOM: 6px; BACKGROUND: url(http://edu.sxgov.cn/image/images/list_bgx.gif) repeat-x 0px 0px; HEIGHT: 25px; OVERFLOW: hidden
+}
+#L_tit01 H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#L_tit01 P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#L_tit01 H3 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#L_tit01 H3 A:hover {
+	COLOR: #900; TEXT-DECORATION: none
+}
+#L_tit01 H3 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 17px; PADDING-RIGHT: 0px; BACKGROUND: url(http://edu.sxgov.cn/image/images/list_bga.gif) no-repeat 0px 0px; FLOAT: left; PADDING-TOP: 0px
+}
+#L_tit01 H3 P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; FONT-FAMILY: ËÎÌå; BACKGROUND: url(http://edu.sxgov.cn/image/images/list_bgb.gif) no-repeat right top; FLOAT: left; HEIGHT: 22px; FONT-SIZE: 15px; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+#L_tit01 .fr {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 10px; FLOAT: right; HEIGHT: 15px; FONT-SIZE: 12px; OVERFLOW: hidden; PADDING-TOP: 2px
+}
+.temp01 {
+	PADDING-LEFT: 15px
+}
+.temp01 UL {
+	TEXT-ALIGN: left; LIST-STYLE-TYPE: none
+}
+.temp01 LI {
+	LINE-HEIGHT: 25px; LIST-STYLE-TYPE: none; PADDING-LEFT: 8px; BACKGROUND: url(http://edu.sxgov.cn/image/images/dot2.gif) no-repeat 0px 9px; HEIGHT: 25px; FONT-SIZE: 14px; OVERFLOW: hidden
+}
+.temp01 UL SPAN {
+	FLOAT: right
+}
+.dooteline {
+	BORDER-BOTTOM: #a5a5a5 1px dashed; LIST-STYLE-TYPE: none; MARGIN: 15px 0px; HEIGHT: 1px; OVERFLOW: hidden
+}
+.listdh {
+	MARGIN-BOTTOM: 30px; CLEAR: both
+}
+.listdh UL {
+	LIST-STYLE-TYPE: none; FLOAT: right
+}
+.listdh LI {
+	FLOAT: left
+}
+#page2011nav .hx_paging UL LI A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+#page2011nav .hx_paging UL LI.on A {
+	COLOR: #fff
+}
+#page2011nav .hx_paging UL LI.surplus {
+	BORDER-BOTTOM-STYLE: none; LINE-HEIGHT: 22px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 10px; BORDER-TOP-STYLE: none; HEIGHT: 22px; COLOR: #900000; BORDER-LEFT-STYLE: none; CURSOR: pointer; FONT-WEIGHT: bold
+}
+#page2011nav .hx_paging .loading {
+	WIDTH: 93px; BACKGROUND: url(http://edu.sxgov.cn/image/16910.files/05043118.gif) no-repeat center 50%; HEIGHT: 15px
+}
+#page2011nav .hxpage_tip {
+	LINE-HEIGHT: normal; MARGIN: 0px; COLOR: #707070; FONT-SIZE: 12px; PADDING-TOP: 10px
+}
+.main_R {float:right; width:300px; padding-right:10px;}
+.label_0912 {
+	LINE-HEIGHT: 22px; WIDTH: 298px; BACKGROUND: url(http://edu.sxgov.cn/image/images/ntitbg.gif) repeat-x 0px 0px; HEIGHT: 22px
+}
+.label_0912 STRONG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; BACKGROUND: url(http://edu.sxgov.cn/image/images/ntitstr.gif) no-repeat 0px 0px; FLOAT: left; HEIGHT: 22px; PADDING-TOP: 0px
+}
+.label_0912 STRONG B {
+	PADDING-RIGHT: 20px; FLOAT: left; HEIGHT: 22px; COLOR: #fff
+}
+.main_R_box {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; MARGIN-TOP: 10px; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid
+}
+
+.main_R_box .wzxgxx {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; PADDING-TOP: 5px
+}
+
+.main_R_box .wzxgxx UL LI {
+	LINE-HEIGHT: 22px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; BACKGROUND: url(http://edu.sxgov.cn/image/images/dot2.gif) no-repeat 0px 9px; HEIGHT: 22px
+}
+.main_R_box .xg_photo {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; PADDING-TOP: 10px
+}
+.main_R_box .xg_photo UL {
+	WIDTH: 278px; OVERFLOW: hidden
+}
+.main_R_box .xg_photo UL LI {
+	WIDTH: 132px; MARGIN-BOTTOM: 10px; FLOAT: left
+}
+.main_R_box .xg_photo UL LI.r {
+	FLOAT: right
+}
+.main_R_box .xg_photo UL LI DIV {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; WIDTH: 130px; HEIGHT: 88px; OVERFLOW: hidden; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.main_R_box .xg_photo UL LI P {
+	TEXT-ALIGN: center; LINE-HEIGHT: 18px; PADDING-TOP: 3px
+}
+.main_R_box .phb {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; PADDING-TOP: 5px
+}
+.main_R_box .phb UL LI {
+	LINE-HEIGHT: 22px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; BACKGROUND: url(http://edu.sxgov.cn/image/images/dot2.gif) no-repeat 0px 9px; HEIGHT: 22px
+}
+/*.main_R_box .phb UL LI SPAN {
+	TEXT-ALIGN: center; WIDTH: 13px; DISPLAY: inline-block; BACKGROUND: url(../images/order_bg.gif) no-repeat 0px -39px; COLOR: #fff; MARGIN-RIGHT: 5px
+}
+.main_R_box .phb UL LI SPAN.q3 {
+	BACKGROUND-POSITION: 0px 4px
+}*/
+.word_link {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; PADDING-BOTTOM: 5px; MARGIN-TOP: 10px; PADDING-LEFT: 8px; PADDING-RIGHT: 0px; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 5px
+}
+.word_link UL {
+	WIDTH: 286px; OVERFLOW: hidden
+}
+.word_link UL LI {
+	LINE-HEIGHT: 22px; PADDING-LEFT: 10px; WIDTH: 127px; BACKGROUND: url(http://edu.sxgov.cn/image/images/dot2.gif) no-repeat 0px 9px; FLOAT: left; HEIGHT: 22px; OVERFLOW: hidden; MARGIN-RIGHT: 5px
+}
+#wrap{ margin: 0 auto; width: 960px; }
+/*---------- stock ---------*/
+.center{
+	margin:0px auto;
+}
+.w960{
+	width:960px;
+	/*position:relative;*/
+}
+.pright .infos_userinfo {
+	margin-bottom: 0px;
+}
+.mt1{/* ( margin-top * 1 ) */
+	margin-top:8px;
+}
+.pright .mt1{
+	margin-top:0px;
+}
+.mt2{/* ( margin-top * 2 ) */
+	margin-top:16px;
+}
+.clear{
+	overflow:hidden;
+}
+.fs-12{
+	font-size:12px;
+}
+.fc-f60{
+	color:#F60;
+}
+.fc-f90{
+	color:#F90;
+}
+.clr{
+	clear:both;
+	}
+.ipt-txt{
+	line-height:15px;
+	padding:4px 5px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#666 #BBB #BBB #666;
+	font-size:12px;
+	margin-right:2px;
+}
+.nb{
+	line-height:20x;
+	padding:1px 2px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#666 #BBB #BBB #666;
+	font-size:12px;
+	margin-right:2px
+}
+.btn-1{
+	width:56px;
+	height:24px;
+	border:none;
+	background:url(http://edu.sxgov.cn/image/images/comm-bt.gif) no-repeat;
+	line-height:25px;
+	letter-spacing:1px;
+	cursor:pointer;
+	overflow:hidden;
+	color:#585858;
+}
+.btn-2{
+	width:70px;
+	height:25px;
+	border:none;
+	background:url(http://edu.sxgov.cn/image/images/btn-bg2.gif) left top no-repeat;
+	line-height:25px;
+	overflow:hidden;
+	color:#444;
+	margin-right:2px;
+	cursor:pointer;
+}
+/*---------- frame ---------*/
+/*---------- frame : header ---------*/
+.header{
+	width:100%;
+	width:960px;
+	margin:auto;
+	overflow:hidden;
+}
+.header .header_top{
+	height:25px;
+	line-height:25px;
+	border-bottom:1px solid #DBDBDB;
+	color:#676767;
+	}
+.header .time{
+	float:left;
+	padding-left:10px;	
+	}
+.header .toplinks{
+	float:right;
+}
+.header .toplinks a{
+	margin:0 5px;
+	}
+.header .toplinks span{
+	margin-left:15px;
+	}
+.header .toplinks span a{
+	margin:0 2px;
+	}
+.header .search {
+	overflow:hidden;
+}
+.header a{
+	color:#777;
+}
+.header a:hover{
+	color:#ff3333;
+	text-decoration:none;
+}
+.header .top{
+	clear:both;
+	overflow:hidden;
+	margin-top:10px;
+}
+.header .title{
+	float:left;
+	padding-left:10px;
+
+}
+.header .title h1 a{
+	width:216px;
+	height:54px;
+	display:block;
+	overflow:hidden;
+}
+.header .banner{
+	width:500px;
+	height:60px;
+	float:left;
+	margin-left:20px;
+	overflow:hidden;
+}
+.header .banner img{
+	width:500px;
+	height:60px;
+	display:block;
+}
+.header .banner2{
+	width:200px;
+	height:60px;
+	float:left;
+	margin-left:10px;
+	overflow:hidden;
+}
+.header .banner2 img{
+	width:200px;
+	height:60px;
+	display:block;
+}
+
+.header .welcome{
+	float:right;
+	margin-top:20px;
+	padding-right:10px;
+	color:#999;
+}
+.header .welcome a{
+	margin:0px 3px;	
+}
+
+/*----- ÐÂ°æµ¼º½²Ëµ¥Î»ÖÃµÄÑùÊ½ -------*/
+.header .nav { }
+/*-------- Ô²½ÇÄ£ÐÍ ---------*/
+.module, .module .mid {
+	overflow:hidden;
+}
+.module .top .t_l, .module .bottom .b_l {
+	float:left;
+	overflow:hidden;
+}
+.module .top .t_r, .module .bottom .b_r {
+	float:right;
+	overflow:hidden;
+}
+.module .top em {
+	float:left;
+	font-size:13px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-left: 5px;
+}
+.module .top em a:link, .module .top em a:visited {
+	font-size:13px;
+	font-weight:bold;
+}
+.module .top span {
+	
+}
+.module .top strong {
+	cursor:pointer;
+	float:right;
+	font-weight:normal;
+	margin-right:4px;
+}
+.module .mid .m_l, .module .mid .m_r {
+	overflow:hidden;
+}
+.module .mid .content {
+	overflow:hidden;
+	height:100%;
+	clear: both;
+	margin-right: 8px;
+	margin-left: 8px;
+	padding-top: 8px;/*padding-bottom: 10px;*/
+}
+.module .top, .module .top .t_l, .module .top .t_r, .module .bottom, .module .bottom .b_l, .module .bottom .b_r {
+	background-image: url("http://edu.sxgov.cn/image/images/green_skin.png");
+}
+/*------ Ö÷É« -------*/
+.blue .top {
+	background-position: 0 -72px;
+	background-repeat: repeat-x;
+	height: 70px;
+}
+.blue .top .t_l {
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	height: 70px;
+	width: 5px;
+}
+.blue .top .t_r {
+	background-position: -6px 0;
+	background-repeat: no-repeat;
+	height: 70px;
+	width: 5px;
+}
+/* --------- µ¼º½ ----------------*/
+.w963 {
+	width:960px;
+}
+#navMenu {
+	width:915px;
+	overflow:hidden;
+	height: 28px;
+	padding:8px 0 0 15px;
+}
+#navMenu ul {
+	float:left;
+	height: 22px;
+}
+#navMenu ul li {
+	float:left;	
+	height: 22px;
+	margin-right: 10px;
+	margin-left: -3px;
+	padding-left: 10px;
+}
+#navMenu ul li a {
+	color: #FFF;
+	height: 22px;
+	text-decoration:none;
+	display: inline-block;
+	position: relative;
+}
+#navMenu ul li span {
+	cursor:pointer;
+	display:inline-block;
+	height:22px;
+	line-height:20px;
+	margin:0 0 0 5px;
+	padding:0 5px 0 0;
+	text-align:center;
+	vertical-align:middle;
+	font-weight:bold;
+	color:#ebf5e9;
+}
+#navMenu ul li.hover {
+	padding-top:0;
+}
+#navMenu ul li.hover a {
+	background:url(http://edu.sxgov.cn/image/images/green_skin.png) 0 -152px no-repeat;
+	display: inline-block;
+	position: relative;
+}
+#navMenu ul li.hover span {
+	background:url(http://edu.sxgov.cn/image/images/green_skin.png) no-repeat right top;
+	cursor:pointer;
+	display:inline-block;
+	height:22px;
+	line-height:20px;
+	margin:0 0 0 5px;
+	padding:0 5px 0 0;
+	text-align:center;
+	vertical-align:middle;
+}
+#navMenu ul li a.hover, #navMenu ul li a:hover {
+	background:url(http://edu.sxgov.cn/image/images/green_skin.png) 0 -152px no-repeat;
+	text-decoration:none;
+	display: inline-block;
+	position: relative;
+}
+#navMenu ul li a.hover span, #navMenu ul li a:hover span {
+	background:url(http://edu.sxgov.cn/image/images/green_skin.png) no-repeat right top;
+	cursor:pointer;
+	display:inline-block;
+	height:22px;
+	line-height:20px;
+	margin:0 0 0 5px;
+	padding:0 5px 0 0;
+	text-align:center;
+	vertical-align:middle;
+}
+/*-------- ÏÂÀ­²Ëµ¥ --------------*/
+.dropMenu {
+	position:absolute;
+	top: 0;
+	z-index:100;
+	width: 120px;
+	visibility: hidden;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA, direction=135, strength=4);
+	margin-top: -1px;
+	border: 1px solid #93E1EB;
+	border-top: 0px solid #3CA2DC;
+	background-color: #FFF;
+	background:url(http://edu.sxgov.cn/image/images/mmenubg.gif);
+	padding-top:6px;
+	padding-bottom:6px;
+}
+
+.dropMenu li {
+	margin-top:2px;
+	margin-bottom:4px;
+	padding-left:6px;
+}
+.dropMenu a {
+	width: auto;
+	display: block;
+	color: black;
+	padding: 2px 0 2px 1.2em;
+}
+* html .dropMenu a {
+	width: 100%;
+}
+.dropMenu a:hover {
+	color:red;
+	text-decoration: underline;
+}
+/*------ //ËÑË÷¿ò ---------*/
+.search-keyword {
+	width:210px;
+	height:18px;
+	padding-top:2px;
+	padding-left:6px;
+	border:0px;
+	border:#badaa1 solid 1px;
+	background: #FFF;
+	color:#444;
+}
+.search-submit {
+	cursor:pointer;
+	width:68px;
+	height:22px;
+	font-size:0px;
+	color:#fafafa;
+	border:0px;
+	background:url(http://edu.sxgov.cn/image/images/search-bt.gif) no-repeat;
+}
+.search-option {
+	margin-left:3px;
+	margin-right:3px;
+	border:#badaa1 solid 1px;
+	height:22px;
+}
+.w963 .search{
+	padding-left:10px;
+	line-height:32px;
+}
+.w963 .form h4 {
+	display:none;
+}
+.w963 .form {
+	float:left;
+	margin:0 10px 0 0;
+	*margin:0 10px 0 0;
+	_margin:5px 10px 0 0;
+}
+.w963 .tags {
+	width:500px;
+	overflow:hidden;
+}
+.w963 .tags h4 {
+	float:left;
+	margin-right: 6px;
+	height:26px;
+	font-size:12px;
+	color:#777;
+}
+.w963 .tags li {
+	float:left;
+	margin-right: 6px;
+}
+.header .nav .end { }
+/*-- //End µ¼º½²Ëµ¥ --*/
+
+/*---------- frame : channel-nav ---------*/
+.channel-nav {
+	margin-top:8px;
+	padding-left:6px;
+	height:24px;
+	width:950px;
+	overflow:hidden;
+}
+.channel-nav .sonnav {
+	width:830px;
+	line-height:26px;
+	float:left;
+	color:#256DB1;
+}
+.channel-nav .sonnav span {	
+	margin-right:10px;
+	float:left;
+}
+.channel-nav .sonnav span a{
+	padding:0 4px;
+	border:1px solid #BADAA1;
+	height:22px;
+	line-height:21px;
+	background:url(http://edu.sxgov.cn/image/images/channel_bg.png) repeat-x;
+	display:inline-block;
+	}
+.channel-nav .sonnav span a.thisclass{
+	border:1px solid #3aa21b;
+	}
+.channel-nav .sonnav a {
+	color:#428C5B;
+	text-decoration:none;
+}
+.channel-nav .sonnav a:hover{
+	 color:#287212;
+	}
+.channel-nav .back{
+	display:block;
+	height:22px;
+	line-height:21px;
+	padding-top:6px;
+	padding-right:10px;
+	padding-left:20px;
+	letter-spacing:2px;
+	float:right;
+	background:url(http://edu.sxgov.cn/image/images/ico-home.gif) 4px 10px no-repeat;
+} 
+.channel-nav .back a{
+	color:#397CBE;
+}
+.channel-nav .back a:hover{
+	text-decoration:none;
+	color:#777;
+}
+/*pic scroll
+----------------------------------*/
+.infiniteCarousel {
+  width: 700px;
+  position: relative;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.infiniteCarousel .wrapper {
+  width: 640px; 
+  overflow: auto;
+  height: 170px;
+  margin: 0 30px;
+  top: 0;
+}
+.infiniteCarousel ul a img {
+  border:1px solid #E3E3E3;
+  padding:2px;
+  width:143px;
+  height:106px;
+  display:block;
+}
+.infiniteCarousel .wrapper ul {
+  width: 625px; 
+  list-style-image:none;
+  list-style-position:outside;
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  top: 0;
+}
+.infiniteCarousel ul li {
+  display:block;
+  color:#6C6D61;
+  float:left;
+  padding: 10px 6px;
+  height: 147px;
+  width: 147px;
+  text-align:center;
+}
+.infiniteCarousel ul li a,
+.infiniteCarousel ul li a:visited{
+	color:#6C6D61;
+	}
+.infiniteCarousel .wrapper ul li a:hover{
+	text-decoration:underline;
+	}
+.infiniteCarousel ul li a:hover img {
+  border-color: #aaa;
+}
+.infiniteCarousel ul li a span{
+   display:block;
+   line-height:17px;
+   padding-top:6px;
+}
+.infiniteCarousel .arrow {
+  display: block;
+  height: 26px;
+  width: 26px;
+  text-indent: -999px;
+  position: absolute;
+  top: 70px;
+  cursor: pointer;
+  outline: 0;
+}
+.infiniteCarousel .forward {
+  background:url(http://edu.sxgov.cn/image/images/green_skin.png) 0 -256px no-repeat;
+  right: 0;
+}
+.infiniteCarousel .back {
+  background:url(http://edu.sxgov.cn/image/images/green_skin.png) 0 -222px no-repeat;
+  left: 0;
+}
+/*----------dedeinfolink  ---------*/
+#dedeinfolink {
+	margin-bottom:6px;
+	}
+#dedeinfolink tr td div {
+	padding:0 5px;
+	background:url(http://edu.sxgov.cn/image/images/white_bg.gif) repeat-x;
+	margin-right:8px;
+	}
+#dedeinfolink tr td {
+	line-height:18px;
+	}
+#dedeinfolink tr td.spline {
+	font-size:1px;
+	height:1px;
+	line-height:1px;
+	border-bottom:1px dashed #dedede;
+	}
+#dedeinfolink tr td.iftitle {
+	font-weight:bold;
+	color:#428C5B;
+	line-height:24px;
+	border-bottom:1px dashed #dedede;
+}
+/*---------- frame : footer ---------*/
+.footer{
+	width:960px;
+	margin:auto;
+	color:#999;
+	text-align:center;
+	margin-top:8px;
+	padding-bottom:10px;
+	border-top:1px solid #E5EFD6;
+	padding-top:10px;
+}
+.footer .link{
+	text-align:center;
+	padding:5px 0px;
+}
+.footer .link a{
+	margin:0px 5px;
+	color:#666666;
+}
+.footer .powered{
+	font-size:10px;
+	line-height:25px;
+}
+.footer .powered strong{
+	color:#690;
+}
+.footer .powered strong span{
+	color:#F93;
+}
+.footer .copyright{
+	color:#666666;
+	line-height:23px;
+}
+/*»»·ô¹¦ÄÜ
+------------------------------------*/
+#dedecms_skins{
+	float:right;
+    padding:5px;
+	width:120px;
+    padding-right:0px;
+	list-style:none;
+	overflow:hidden;
+    }
+#dedecms_skins li{
+	float:left;
+    margin-right:5px;
+    width:15px;
+    height:15px;
+	text-indent:-999px;
+	overflow:hidden;
+	display:block;
+	cursor:pointer;
+	background-image:url(http://edu.sxgov.cn/image/images/theme.gif);
+}
+#dedecms_skins_0{
+	background-position:0px 0px;
+}
+#dedecms_skins_1{
+	background-position:15px 0px;
+}
+#dedecms_skins_2{
+	background-position:35px 0px;
+}
+#dedecms_skins_3{
+	background-position:55px 0px;
+}
+#dedecms_skins_4{
+	background-position:75px 0px;
+}
+#dedecms_skins_5{
+	background-position:95px 0px;
+}
+#dedecms_skins_0.selected{
+	background-position:0px 15px !important;
+}
+#dedecms_skins_1.selected{
+	background-position:15px 15px !important;
+}
+#dedecms_skins_2.selected{
+	background-position:35px 15px !important;
+}
+#dedecms_skins_3.selected{
+	background-position:55px 15px !important;
+}
+#dedecms_skins_4.selected{
+	background-position:75px 15px !important;
+}
+#dedecms_skins_5.selected{
+	background-position:95px 15px !important;
+}
+/*Í·²¿²¹³ä*/
+.h_searchDiv {
+	 MARGIN: 0px auto; PADDING-LEFT: 5px; WIDTH: 955px;  HEIGHT: 100px; OVERFLOW: hidden;PADDING-TOP: 0px;PADDING-BOTTOM: 0px;
+}
+.h_theLogo {
+	FLOAT: left; PADDING-TOP: 10px;
+}
+.h_theLogo IMG {
+	FLOAT: left
+}
+
+.h_navFind {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 740px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 10px
+}
+.h_navFind .ad1{width:740px;height:50px;OVERFLOW: hidden;}
+.h_navFind .ad2{width:740px;height:30px;OVERFLOW: hidden;margin-top:5px;background-color:#F3F3F3;}
+
+/*.h_navFind .h_text {
+	BORDER-BOTTOM: #819bb4 1px solid; BORDER-LEFT: #819bb4 1px solid; PADDING-BOTTOM: 0px; MARGIN-TOP: 1px !important; PADDING-LEFT: 5px; WIDTH: 182px; PADDING-RIGHT: 0px; BACKGROUND: #fff; HEIGHT: 16px; COLOR: #646464; FONT-SIZE: 12px; BORDER-TOP: #819bb4 1px solid; MARGIN-RIGHT: 7px; BORDER-RIGHT: #819bb4 1px solid; PADDING-TOP: 2px
+}
+.h_navFind .h_sel {
+	BORDER-BOTTOM: #819bb4 1px solid; BORDER-LEFT: #819bb4 1px solid; PADDING-BOTTOM: 0px; MARGIN: 1px 9px 0px 0px; PADDING-LEFT: 11px; WIDTH: 80px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/nav0416_04.gif) #fff no-repeat right center; HEIGHT: 16px; COLOR: #646464; FONT-SIZE: 12px; BORDER-TOP: #819bb4 1px solid; CURSOR: pointer; BORDER-RIGHT: medium none; PADDING-TOP: 2px
+}
+.h_navFind .h_button {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; MARGIN: 1px 0px 0px; PADDING-LEFT: 2px; WIDTH: 51px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/navFind.gif) no-repeat 0px 0px; HEIGHT: 20px; COLOR: #000; BORDER-TOP: medium none; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: medium none; PADDING-TOP: 1px
+}*/
+.h_stockList {
+	Z-INDEX: 999; BORDER-BOTTOM: #195184 1px solid; POSITION: absolute; BORDER-LEFT: #195184 1px solid; WIDTH: 300px; BACKGROUND: #fff; BORDER-TOP: #195184 1px solid; TOP: 28px; BORDER-RIGHT: #195184 1px solid; LEFT: 0px
+}
+.h_stockList A {
+	COLOR: #0a5ea6
+}
+#h_searchFormOption {
+	Z-INDEX: 80; POSITION: relative; FLOAT: left
+}
+.h_stockList A:visited {
+	COLOR: #0a5ea6
+}
+.h_stockList .tab TD {
+	BORDER-BOTTOM: #ececec 1px solid; TEXT-ALIGN: left; PADDING-LEFT: 12px; HEIGHT: 21px !important; COLOR: #333
+}
+.h_stockList .tab TR.current {
+	BACKGROUND: #194e80
+}
+.h_stockList .tab TR.current TD {
+	BACKGROUND: #194e80; COLOR: #fff
+}
+.h_stockList .tab TR.current TD A {
+	COLOR: #fff
+}
+.h_stockList .red {
+	COLOR: #f00
+}
+
+.h_subNav {
+	BORDER-BOTTOM: #ccc 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 10px; WIDTH: 940px; PADDING-RIGHT: 10px; HEIGHT: 30px; BORDER-TOP: #8a1e22 9px solid; PADDING-TOP: 0px;margin-bottom:10px;BORDER-LEFT: #ccc 1px solid;BORDER-right: #ccc 1px solid;
+}
+
+.h_siteMap {
+	FLOAT: right; PADDING-TOP: 4px;
+}
+/*.h_siteMap SPAN {
+	PADDING-RIGHT: 20px; BACKGROUND: url(../images/n_16.gif) no-repeat right center; CURSOR: pointer
+}*/
+.cDGray {
+	COLOR: #2b2b2b
+}
+.cDGray A:link {
+	COLOR: #2b2b2b
+}
+.cDGray A:visited {
+	COLOR: #2b2b2b
+}
+.cDGray A:hover {
+	COLOR: #ba2636
+}
+.h_navList {
+	WIDTH: 740px;height:30px;
+}
+.h_navList LI {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 30px; PADDING-TOP: 0px
+}
+.oli{border-right:1px solid #ccc;}
+/*.h_firstli{margin-left:10px;}*/
+.h_navList LI a{font-size:12px;font-weight:600;}
+
+/*ÄÚÈÝÒ³*/
+#mainer {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; WIDTH: 958px; BACKGROUND: url(http://edu.sxgov.cn/image/images/page_line_bg.gif) repeat-y 635px 0px; OVERFLOW: hidden; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid;margin:0 auto;
+}
+#mainer .main_L {
+	WIDTH: 635px; FLOAT: left
+}
+#mainer .main_R {
+	WIDTH: 300px; PADDING-RIGHT: 10px; FLOAT: right
+}
+#topFullWidthBanner2 {
+	TEXT-ALIGN: center
+}
+.crumbs {
+	BORDER-BOTTOM: #bebebe 1px solid; WIDTH: 100%; HEIGHT: 25px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.crumbs .crumbs_L {
+	PADDING-LEFT: 18px; WIDTH: 500px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 2px
+}
+.crumbs .crumbs_L SPAN {
+	COLOR: #990000
+}
+.crumbs .crumbs_R {
+	WIDTH: 80px; PADDING-RIGHT: 18px; FLOAT: right
+}
+.crumbs .crumbs_R A {
+	TEXT-ALIGN: center; WIDTH: 31px; BACKGROUND: url(http://edu.sxgov.cn/image/images/text_bg.gif) no-repeat 0px -30px; FLOAT: right; HEIGHT: 15px; COLOR: #990000; MARGIN-LEFT: 5px; PADDING-TOP: 3px
+}
+.crumbs .crumbs_R A:hover {
+	BACKGROUND-POSITION: -33px -30px; COLOR: #fff; TEXT-DECORATION: none
+}
+.text_panel {
+	MARGIN: 0px auto; WIDTH: 600px; PADDING-TOP: 15px
+}
+.text_panel .title_con {
+	BORDER-BOTTOM: #ccc 3px solid; WIDTH: 100%; OVERFLOW: hidden
+}
+.text_panel .title_con .art_title {
+	WIDTH: 100%; 
+}
+.text_panel .title_con .art_title H1 {
+	LINE-HEIGHT: 36px; FONT-FAMILY: "ºÚÌå"; FONT-SIZE: 20px;text-align:center
+}
+.text_panel .title_con UL.title_opt {
+	WIDTH: 72px; FLOAT: right; PADDING-TOP: 10px
+}
+.text_panel .title_con UL.title_opt LI {
+	WIDTH: 15px; BACKGROUND: url(http://edu.sxgov.cn/image/images/text_bg.gif) no-repeat; FLOAT: left; HEIGHT: 15px; CURSOR: pointer; MARGIN-RIGHT: 8px
+}
+.text_panel .title_con UL.title_opt LI.big {
+	BACKGROUND-POSITION: 0px -59px
+}
+.text_panel .title_con UL.title_opt LI.big_on {
+	BACKGROUND-POSITION: 0px -75px
+}
+.text_panel .title_con UL.title_opt LI.small {
+	BACKGROUND-POSITION: -23px -75px
+}
+.text_panel .title_con UL.title_opt LI.small_on {
+	BACKGROUND-POSITION: -23px -59px
+}
+.text_panel .title_con UL.title_opt LI.tt {
+	LINE-HEIGHT: 18px; WIDTH: auto; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #666; CURSOR: default
+}
+.text_panel .title_con UL.title_opt LI.end {
+	MARGIN-RIGHT: 0px
+}
+.text_panel .title_desc {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px;text-align:center
+}
+.text_panel .title_desc A.title_pl {
+	FLOAT: right; COLOR: #990000; TEXT-DECORATION: underline
+}
+.text_panel .title_desc SPAN.gray {
+	PADDING-RIGHT: 10px; COLOR: #868686
+}
+.text_panel .art_context {
+	LINE-HEIGHT: 180%; FONT-SIZE: 14px
+}
+.text_panel .art_context P {
+	MARGIN: 12px 0px
+}
+.text_panel .art_context A {
+	COLOR: #0033ff; TEXT-DECORATION: underline
+}
+.mz_decl {
+	PADDING-BOTTOM: 6px; LINE-HEIGHT: 24px; TEXT-INDENT: 24px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #fff; COLOR: #787e7c; FONT-SIZE: 12px; BORDER-TOP: #bebebe 1px solid; PADDING-TOP: 10px
+}
+.mz_decl P {
+	color:#666
+}
+.business {
+	BORDER-BOTTOM: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 7px; MARGIN: 10px 0px; PADDING-LEFT: 0px; WIDTH: 598px; PADDING-RIGHT: 0px; FLOAT: left; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 7px
+}
+.business .text {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; WIDTH: 17px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 4px
+}
+.business .textad {
+	WIDTH: 570px; FLOAT: left
+}
+.business .textad LI {
+	LINE-HEIGHT: 22px; PADDING-LEFT: 10px; WIDTH: 165px; BACKGROUND: url(http://edu.sxgov.cn/image/images/icon_n01.gif) no-repeat left 8px; FLOAT: left; HEIGHT: 22px; COLOR: #0366ce; MARGIN-LEFT: 10px; OVERFLOW: hidden
+}
+.business .textad LI A {
+	COLOR: #676767
+}
+.column_L {
+	MARGIN-TOP: 10px; PADDING-LEFT: 15px; BACKGROUND: url(http://edu.sxgov.cn/image/images/h4_bg.gif) no-repeat 0px -128px; HEIGHT: 25px;WIDTH: 100%;OVERFLOW: hidden
+}
+.column_L I {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 25px; FONT-STYLE: normal; PADDING-LEFT: 7px; PADDING-RIGHT: 14px; FONT-FAMILY: "Î¢ÈíÑÅºÚ","ËÎÌå"; BACKGROUND: url(http://edu.sxgov.cn/image/images/h4_bg.gif) no-repeat right -158px; FLOAT: left; HEIGHT: 25px; FONT-SIZE: 15px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.column_L .qt_more {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; FLOAT: right; PADDING-TOP: 5px
+}
+.column_L .jbbt {
+	LINE-HEIGHT: 24px; WIDTH: 400px; FLOAT: right; HEIGHT: 24px; OVERFLOW: hidden
+}
+.column_L .jbbt SPAN {
+	PADDING-RIGHT: 30px
+}
+.xgxw_con {
+	BORDER-BOTTOM: #d0d0d0 1px solid; BORDER-LEFT: #d0d0d0 1px solid; PADDING-BOTTOM: 9px; PADDING-LEFT: 9px; PADDING-RIGHT: 9px; BORDER-TOP: #d0d0d0 1px; BORDER-RIGHT: #d0d0d0 1px solid; PADDING-TOP: 9px;margin-bottom:10px;
+}
+.xgxw_con_con {
+	WIDTH: 100%; BACKGROUND: url(http://edu.sxgov.cn/image/images/dot_line_bg.gif) repeat-y 486px 0px; OVERFLOW: hidden
+}
+.xgxw_con UL.xgxw_list {
+	WIDTH: 470px; FLOAT: left;
+}
+.xgxw_con UL.xgxw_list LI {
+	LINE-HEIGHT: 28px; PADDING-LEFT: 10px; BACKGROUND: url(http://edu.sxgov.cn/image/images/dot01.gif) no-repeat 0px 11px; HEIGHT: 28px; OVERFLOW: hidden
+}
+.xgxw_con UL.xgxw_list LI A {
+	FLOAT: left; COLOR: #485a90; FONT-SIZE: 14px; TEXT-DECORATION: underline
+}
+.xgxw_con UL.xgxw_list LI SPAN {
+	FLOAT: right; COLOR: #999
+}
+.fdlink {
+	BORDER-RIGHT: #cfe2f5 1px solid; BORDER-TOP: #cfe2f5 1px solid; BACKGROUND: #f9fcfe; BORDER-LEFT: #cfe2f5 1px solid; BORDER-BOTTOM: #cfe2f5 1px; WIDTH: 958px;height:auto;margin:10px auto; OVERFLOW: hidden
+}
+.fdlink DL {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 79px; PADDING-BOTTOM: 8px; OVERFLOW: hidden; LINE-HEIGHT: 16px; PADDING-TOP: 8px; BORDER-BOTTOM: #cfe2f5 1px solid; POSITION: relative
+}
+.fdlink DT {
+	CLEAR: left; FLOAT: left; MARGIN-LEFT: -79px; OVERFLOW: hidden; WIDTH: 79px; COLOR: #1379cd; POSITION: absolute; TEXT-ALIGN: center
+}
+.fdlink DD {
+	DISPLAY: block; PADDING-LEFT: 12px; OVERFLOW: hidden; BORDER-LEFT: #cfe2f5 1px solid; MARGIN-RIGHT: 10px
+}
+
+.fdlink DD li{	float:left;
+	padding:0px 10px;
+}
+.fdlink DD li a{COLOR: #1f376d; WHITE-SPACE: nowrap}
+.keysytle{width:100%;height:30px;OVERFLOW: hidden;line-height:30px;background-color:#ECF5FF;color:#333;text-indent:1em}
+.keysytle span{color:#333;font-weight:600;}
+.font12 {
+	LINE-HEIGHT: 18px; COLOR: #000000; FONT-SIZE: 12px
+}
+.font12 A {
+	LINE-HEIGHT: 18px; COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.font12 A:hover {
+	LINE-HEIGHT: 18px; COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.gray121 {
+	LINE-HEIGHT: 23px; COLOR: #666666; FONT-SIZE: 12px
+}
+.gray121 A {
+	LINE-HEIGHT: 23px; MARGIN: 0px 10px; COLOR: #666666; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.gray121 A:hover {
+	LINE-HEIGHT: 23px; COLOR: #666666; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
